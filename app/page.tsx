@@ -22,6 +22,7 @@ export default function Home() {
           <KeyRound width={35} height={35} className="mx-3" />
           Auth
         </h1>
+
         <p className="text-white text-lg">A simple authentication service</p>
         <div>
           <LoginButton>
